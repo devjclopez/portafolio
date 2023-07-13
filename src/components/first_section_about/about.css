@@ -1,0 +1,19 @@
+.about {
+  overflow: hidden;
+}
+.about .about-icon {
+  color: #ABB2BF;
+  transition: all .5s;
+}
+.about-icon:hover {
+  color: #C778DD;
+}
+.about-perfil {
+  /* background-color: #C778DD; */
+}
+.foto-perfil {
+  background-color: #fff;
+}
+.foto-perfil img {
+  background-color: aqua;
+}

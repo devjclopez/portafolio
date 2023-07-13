@@ -1,0 +1,11 @@
+.navbar {
+  position: fixed;
+  z-index: 9999 !important;
+  /* background: gold !important; */
+}
+.navbar .left .quotes {
+  font-size: 32px;
+}
+.navbar .left .slash {
+  font-size: 24px;
+}

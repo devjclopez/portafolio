@@ -1,0 +1,14 @@
+.project-breadcum {
+  background-color: #C778DD;
+  background: rgba(171, 178, 191, 0.6);
+  font-weight: 600;
+  padding: 1px 5px;
+  color: #111 !important;
+  border-radius: 3px;
+}
+.card-img {
+  background-color: #C778DD;
+  height: 350px;
+  overflow: hidden;
+  display: flex;
+}

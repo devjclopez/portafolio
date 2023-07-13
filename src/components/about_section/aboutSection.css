@@ -1,0 +1,26 @@
+.about-section {
+  overflow: hidden;
+  /* background-color: aqua; */
+}
+.about-icon {
+  color: #ABB2BF;
+  transition: all .5s;
+}
+.about-icon:hover {
+  color: #C778DD;
+}
+.foto-perfil {
+  /* background: #C778DD; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 500px;
+  /* overflow: hidden; */
+  position: relative;
+}
+.foto-perfil img {
+  /* background-color: aqua; */
+  line-height: 0;
+  /* filter: drop-shadow(5px 5px 5px #ABB2BF); */
+  /* border-radius: 10px; */
+}
